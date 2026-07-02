@@ -1,0 +1,24 @@
+Laboratory Activity 1: Add Two Numbers
+Step 1: Start.
+Step 2: Ask for num1.
+Step 3: Ask for num2.
+Step 4: Compute sum = num1 + num2.
+Step 5: Display sum.
+Step 6: End.
+
+Laboratory Activity 2: Compute the Average of Three Quiz Scores
+Step 1: Start.
+Step 2: Ask for score1.
+Step 3: Ask for score2.
+Step 4: Ask for score3.
+Step 5: Compute average = (score1 + score2 + score3) / 3.
+Step 6: Display average.
+Step 7: End.
+
+Laboratory Activity 3: Determine if a Number is Even or Odd
+Step 1: Start.
+Step 2: Ask for number.
+Step 3: Check if number MOD 2 equals 0.
+Step 4: If yes, display "Even".
+Step 5: If no, display "Odd".
+Step 6: End.
