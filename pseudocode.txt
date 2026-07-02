@@ -1,0 +1,28 @@
+Problem:
+Ask the user for two numbers, add them, and display the sum.
+
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
+START
+
+Compute the Average of Three Quiz Scores
+INPUT score1
+INPUT score2
+INPUT score3
+PROCESS average = (score1+score2+score3)/3
+DISPLAY average
+END
+
+Laboratory Activity 3: Determine if a Number is Even or Odd
+START
+INPUT number
+IF number MOD 2 = 0 THEN
+DISPLAY "Even"
+ELSE
+DISPLAY "Odd"
+END IF
+END
